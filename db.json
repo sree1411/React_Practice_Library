@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "html5",
+      "author": "sreekanth"
+    },
+    {
+      "id": 2,
+      "title": "css3",
+      "author": "sreekanth"
+    },
+    {
+      "title": "xyzx",
+      "author": "abcd",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
