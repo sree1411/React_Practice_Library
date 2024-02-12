@@ -1,43 +1,27 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "sreekanthsss",
+      "author": "book1sssss",
+      "id": 2
     },
     {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "renati",
+      "author": "book2",
+      "id": 3
     },
     {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "virat kohli",
+      "author": "book3",
+      "id": 4
     },
     {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "kanth",
+      "author": "sree",
+      "id": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
